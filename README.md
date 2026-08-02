@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=SedanSC&weight=500&size=35&duration=4000&pause=1000&color=0FB6E6&background=0C155F00&multiline=true&random=false&width=435&lines=Hello!+I'm+Fl%C3%A1via!+%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%80%EF%B8%8F" alt="Typing SVG" /></a>
 
-My main focus is front-end developer, with knowledge in the area of UI/UX designer, starting to become dev-fullstack. I have a degree in administration technician and my main area of interest is project management.
+Cursando Gestão Ambiental na FURG com bagagem sólida em Sistemas de Informação e Formação Técnica em Administração. Meu foco é conectar Tecnologia, Dados Ecológicos, UI/UX e Gestão para impulsionar projetos de conservação, etnobotânica e sustentabilidade.
 
 <div style="display: inline_block">   
     <a href="https://github.com/Flaviacristinagpassos" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
