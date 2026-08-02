@@ -9,7 +9,7 @@ My main focus is front-end developer, with knowledge in the area of UI/UX design
     <a href="https://trello.com/u/flaviacristinagpassos/activity" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" target="_blank"></a>
 </div>
 
-## Languages
+## Linguagens
 
 
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
@@ -81,10 +81,11 @@ ApacheSpark |
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-# My Jounery
-Currently working with AWS cloud engineer, developing skills with core lenguages: SQL, Python (ETL, Pandas, Numpy..); Cloud Components: IAM, EC2, VPC, Lambda, Step Function and more; Analytical Services with: EMR, GLUE, Athena, Quicksight and more; Data Processing with spark and Data Visualization and modeling. 
+# Minha Jornada
+Cursando Gestão Ambiental, trago comigo uma sólida vivência na tecnologia construída ao longo de 4 semestres + optativas de Sistemas de Informação. Nesse período, mergulhei fundo no funcionamento por trás dos computadores, aprendendo desde algoritmos, estruturas de dados e arquitetura/organização de computadores até Sistemas Distribuídos e Inteligentes.
+Compreendi o que acontece por dentro de uma rede neural e como seu treinamento funciona: algoritmos, backpropagation, threads, relógios de vetores, organização de eventos, algoritmo de Lamport, CDN, DNS, IPC, arquitetura multicamadas, embeddings, lógica fuzzy, aprendizagem por reforço profundo (Double Deep Q-Network - DQN), redes convolucionais, Q-learning, entropia cruzada, função de custo e muito mais. Toda essa bagagem me permitiu entender exatamente como a tecnologia e as redes funcionam em seu nível mais profundo.
 
-(..)
-I'm also working on my TCC project which is aimed at gyms, it's a gym management software, I chose this topic because since I was young I've always wanted to study a bachelor's degree in physical education so I can work in a gym as a personal trainer and in the future open my own academy (this is still my big dream), and I also have a degree in administration technician, which for a while was also my choice to study, so I decided to combine all of this to complete my course in information systems. An opportunity came up to sell this software, a gym bought my idea and now they are waiting for the product, which will be delivered soon.
+No entanto, decidi trocar de curso porque não queria passar a graduação inteira na sala, por 3 horas seguidas na frente de uma tela codando e lidando com linhas travadas por uma vírgula ou falta de indentação. Decidi migrar para algo diretamente ligado à natureza e me encontrei na Gestão Ambiental.
 
+Nada desse tempo foi perdido; foi o preparo para o que construo hoje. Trouxe todo esse conhecimento para correlacionar ciência, tecnologia, arte e natureza. Tenho interesse em etnobotânica, psicodélicos, na vida no geral e na vivência no mato, usando a inteligência sistêmica e a tecnologia como ferramentas para interpretar, conservar e comunicar a complexidade do mundo vivo.
 
