@@ -16,14 +16,13 @@ My main focus is front-end developer, with knowledge in the area of UI/UX design
 ## Languages
 
 
-
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
 /> |
 <img align="center" width=30 height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
 PyQt  |
 <img align="center" width=30 height=30 src="https://github.com/user-attachments/assets/cf091376-0ab9-4c4b-9fc1-d20c64531c2d" />
 Boto3  | 
-<img  align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+<img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
 Matplotlib  |
 <img align="center" width=20 height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
 NumPy  | 
